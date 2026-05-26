@@ -1,0 +1,4 @@
+interface:
+  display_name: "Music Downloader"
+  short_description: "Build verified album download manifests"
+  default_prompt: "Use $music-downloader to research these artists, verify YouTube album playlists, and download the verified albums."
