@@ -1,0 +1,1 @@
+This skill can be used to mass download entire discographies from any platform autonomously. You give the agent a long list of artists and send the prompt as a `/goal`. The agent develops a list of all mainline albums/projects of each artist, manually checks each playlist to verify what is being curated, then downloads it all in efficient batches using `yt-dlp`. 
